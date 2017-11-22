@@ -1,4 +1,4 @@
-# harmonize
+# Harmonize
 Personal song management done right.
 
 You have a right to your music, and harmonize is the platform that will allow you to

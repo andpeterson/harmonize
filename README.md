@@ -16,7 +16,7 @@ We would love the help of other developers! Debugging is an especially helpful t
 If you encounter a bug during usage, please open an issue.
 
 
-#DEV NOTES
+# DEV NOTES
 Sync
    -Server Side
    -Client Side
@@ -39,14 +39,14 @@ Easy to spoof
 Legality
 
 Server:
--Manage Connections on Notifications
--Ability to use local/external storage
--Blacklist/whitelist
--Encryption/Oauth
--Generic REST API for meta data
--File Transfer / Streaming
-   * Protocol TBD
--Non-local web managment interface
+*Manage Connections on Notifications
+*Ability to use local/external storage
+*Blacklist/whitelist
+*Encryption/Oauth
+*Generic REST API for meta data
+*File Transfer / Streaming
+   ** Protocol TBD
+*Non-local web managment interface
 
 Streaming is short lived:
 Simple connect, the transfers (can be done through REST?) (or websockets?)

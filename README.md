@@ -14,3 +14,39 @@ producing stable versions that have well documented effects.
 # Contributing
 We would love the help of other developers! Debugging is an especially helpful task.
 If you encounter a bug during usage, please open an issue.
+
+
+#DEV NOTES
+Sync
+   -Server Side
+   -Client Side
+Filter
+   -Server
+Meta
+   -Server
+
+STRETCH GOALS:
+-IOS/MAC
+-CLIENT PUSHING
+-CLIENT META DATA
+-Filtering
+-Not Local/ Webservice
+-Streaming
+
+Potential Issues:
+Bloat
+Easy to spoof
+Legality
+
+Server:
+-Manage Connections on Notifications
+-Ability to use local/external storage
+-Blacklist/whitelist
+-Encryption/Oauth
+-Generic REST API for meta data
+-File Transfer / Streaming
+   * Protocol TBD
+-Non-local web managment interface
+
+Streaming is short lived:
+Simple connect, the transfers (can be done through REST?) (or websockets?)
